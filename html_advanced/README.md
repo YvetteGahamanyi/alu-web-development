@@ -1,3 +1,5 @@
+![alt text](https://img.freepik.com/free-vector/plant-emoji_78370-262.jpg?w=1060&t=st=1678911958~exp=1678912558~hmac=df76624c274f14e388e09403e0f3265d862c5245dd5a120c99166d4b5805f8e4)
+
 # Welcome to My Plant Shop Webpage Project!
 
 Hey there! 👋 Welcome to the beginning of an exciting journey where I'll be creating a webpage from scratch, straight out of a designer file. This project is for a school assignment where I'll build a simple, yet semantic HTML webpage for selling plants.
